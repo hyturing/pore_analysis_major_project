@@ -1,2 +1,2 @@
 # pore_analysis_major_project
-Pore Analysis using OpenCV and Machine Learning
+Pore Analysis with OpenCV and Machine Learning
